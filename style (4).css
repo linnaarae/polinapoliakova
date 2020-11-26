@@ -1,0 +1,560 @@
+.sloi2 h1 {
+  text-align: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  margin-left: 190px;
+  margin-top: 317px;
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+}
+.sloi2 span {
+  background-color: #b2f2ee;
+}
+.knopka {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 196px;
+  margin-top: 148px;
+  margin-left: 45%;
+  padding-left: 2em;
+  padding-right: 60px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-family: Courier;
+  display: inline-block;
+  color: rgb(99, 96, 96);
+  text-decoration: none;
+  outline: gray;
+  border-style: outset;
+  border-color: #858381 #7c7a79 #696868;
+  border-radius: 1px;
+  background: #ecedf0;
+  transition: 0.2s;
+}
+.knopka a {
+}
+body {
+  font-family: "Oswald", sans-serif;
+  background: linear-gradient(to bottom, #ecedf0 40%, #f8fafa 60%);
+}
+.logo {
+  margin-top: 40px;
+  margin-left: 200px;
+}
+.poloski {
+  margin-left: 70%;
+}
+.stakan {
+  margin-left: 25%;
+}
+.about_us h1 {
+  text-align: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  margin-left: 10px;
+  padding-top: 190px;
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+}
+.about_us p {
+  text-align: center;
+  font-size: 40px;
+  color: gray;
+}
+.tex h2 {
+  margin-right: 50px;
+  font-size: 40px;
+}
+.tex p {
+  text-align: left;
+  margin-right: 50px;
+  font-size: 30px;
+}
+.tex {
+}
+.why h2 {
+  margin-right: 50px;
+  font-size: 40px;
+}
+.why p {
+  text-align: left;
+  margin-right: 50px;
+  font-size: 30px;
+}
+.why {
+}
+.img {
+  display: inline-block;
+  margin-left: 230px;
+  margin-top: 150px;
+}
+.tw {
+  display: inline-block;
+  margin-left: 200px;
+}
+html {
+  overflow-x: hidden;
+}
+
+.future h1 {
+  text-align: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  margin-left: 10px;
+  padding-top: 190px;
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+}
+.future h2 {
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+}
+.imge {
+  margin-left: 400px;
+  margin-top: 150px;
+}
+.mar {
+  margin: 0 9px;
+}
+.imgt {
+  margin-top: 20px;
+  margin-left: 400px;
+}
+.our h1 {
+  text-align: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  margin-left: 10px;
+  padding-top: 100px;
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+}
+.our h2 {
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+}
+.tek {
+  background-color: #71f5ea;
+  width: 652px;
+  height: 423px;
+  margin-left: 400px;
+  display: inline-block;
+}
+.tek h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(14, 13, 13);
+  padding-top: 62px;
+  padding-right: 178px;
+}
+.tak {
+  text-align: left;
+  font-size: 30px;
+  color: gray;
+  font: bold 0.9em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 40px;
+  margin-bottom: -40px;
+}
+.krest {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.tyk {
+  background-image: url(col.png);
+  display: inline-block;
+  height: 423px;
+  width: 475px;
+  position: relative;
+  bottom: 10px;
+  margin-left: 18px;
+}
+.tyk h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 26px;
+  color: rgb(250, 245, 245);
+  padding-top: 148px;
+  padding-right: 140px;
+}
+.pol {
+  text-align: left;
+  font-size: 25px;
+  color: rgb(245, 239, 239);
+  font: bold 0.88em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.pil {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 19px;
+  color: rgb(250, 245, 245);
+  padding-top: 45px;
+  padding-right: 210px;
+}
+.cool {
+  background-image: url(comp.png);
+  display: inline-block;
+  background-size: cover;
+  width: 652px;
+  height: 423px;
+  margin-left: 400px;
+}
+.cool h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(252, 252, 252);
+  padding-top: 142px;
+  padding-right: 260px;
+}
+.mot {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(241, 239, 239);
+  font: bold 0.9em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.know {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 19px;
+  color: rgb(250, 245, 245);
+  padding-top: 51px;
+  padding-right: 410px;
+}
+.psd {
+  background-image: url(stul.png);
+  background-size: cover;
+  display: inline-block;
+  height: 423px;
+  width: 475px;
+  margin-left: 17px;
+  margin-top: 10px;
+}
+.psd h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(252, 252, 252);
+  padding-top: 142px;
+  padding-right: 153px;
+}
+.mat {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(241, 239, 239);
+  font: bold 0.9em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.kn {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 19px;
+  color: rgb(250, 245, 245);
+  padding-top: 51px;
+  padding-right: 230px;
+}
+.psde {
+  background-image: url(butlka.png);
+  display: inline-block;
+  background-size: cover;
+  margin-left: 400px;
+  height: 423px;
+  width: 475px;
+  margin-top: 20px;
+
+}
+.psde h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(252, 252, 252);
+  padding-top: 112px;
+  padding-right: 153px;
+}
+.tat {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(241, 239, 239);
+  font: bold 0.9em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.kno {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 19px;
+  color: rgb(250, 245, 245);
+  padding-top: 51px;
+  padding-right: 230px;
+}
+.pds {
+  background-image: url(chashki.png);
+  background-size: cover;
+  display: inline-block;
+  width: 652px;
+  height: 423px;
+  position: relative;
+  top: 1px;
+  margin-left: 17px;
+}
+.pds h1 {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(252, 252, 252);
+  padding-top: 112px;
+  padding-right: 210px;
+}
+.rat {
+  text-align: left;
+  font-size: 30px;
+  color: rgb(241, 239, 239);
+  font: bold 0.9em Arial, sans-serif;
+  margin-left: 67px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.kne {
+  font: bold 2em Arial, sans-serif;
+  text-align: center;
+  font-size: 19px;
+  color: rgb(250, 245, 245);
+  padding-top: 51px;
+  padding-right: 400px;
+}
+.kmall {
+  width: 2000px;
+  height: 1000px;
+}
+
+.kmall h1 {
+  text-align: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+  margin-top: 230px;
+}
+
+.kmall h2 {
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+}
+.imgi{
+    margin-left: 400px;
+}
+.imagy{
+    margin-left: 400px;
+}
+
+.what h1 {
+  text-align: center;
+  align-items: center;
+  font-size: 50px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  padding-top: 110px;
+  font-family: Courier;
+  line-height: 40px;
+  font: bold 3em Arial, sans-serif;
+  color: #111111;
+  text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0;
+  margin-top:200px;
+}
+.what h2 {
+  text-align: center;
+  font-size: 30px;
+  color: gray;
+}
+.muzhichok{
+    margin-left: 300px;
+    margin-top: 140px;
+    float: left;
+}
+.phon{
+    background-color: #eaebed;
+    display: block;
+    width: 670px;
+    height: 360px;
+    margin-left:200px;
+    margin-bottom: 200px;
+    margin-top: 176px;
+    
+
+}
+.phon h4{
+    text-align: center;
+  font-size: 20px;
+  box-shadow: initial;
+  color: rgb(61, 61, 61);
+  font-family: Courier;
+  line-height: 40px;
+  color: #111111;
+  padding-top: 80px;
+}
+.phon h4 span{
+    color: gray;
+    font-size: 20px;
+}
+.phon p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    font-size: 16px;
+}
+.zv{
+    margin-top: 10px;
+    margin-left: 270px;
+}
+
+.arrow{
+    display: inline-block;
+    align-items: center;
+}
+.rko{
+    margin-left: 600px;
+}
+.sport{
+    margin-left: 300px;
+}
+.icons{
+  background: white;
+  padding-left: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.strelka{
+  margin-left: 1440px;
+  margin-top: -190px;
+  margin-bottom: 100px;
+}
+
+footer{
+   background-image: url(elk.png) ; 
+  width: 100%;
+  height: 670px;
+  margin: 1em auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+ 
+}
+.form22 form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  height: 42px;
+}
+.form{
+  background-color: #40525f;
+  background:rgba(64, 82, 95, 0.9);
+  width: 615px;
+  height:458px;
+  margin-left: 339px;
+}
+.form22 input {
+height: 42px;
+width: 0;
+padding: 0 42px 0 15px;
+border: none;
+border-bottom: 2px solid transparent;
+outline: none;
+background: transparent;
+transition: .4s cubic-bezier(0, 0.8, 0, 1);
+top: 0;
+right: 0;
+width: 300px;
+z-index: 1;
+border-bottom: 2px solid #292F33;
+display: block;
+margin-left: 100px;
+color: white;
+}
+.form22 button {
+  color: #121313;
+  background-color: #6eeee4;
+  width: 245px;
+  height: 52px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.mess{
+  margin-top: 90px;
+}
+.farm{
+  background-color: #40525f;
+  background:rgba(64, 82, 95, 0.9);
+  width: 502px;
+  height:458px;
+  margin-left: 970px;
+  margin-top: -458px;
+}
+.karta{
+  margin-top: 0px;
+  margin-left: 25px;
+  
+}
+.tekst{
+  color: white;
+  padding-top:5px;
+  margin-left:40px;
+  line-height: 10px;
+  font-size: 15px;
+}
+.ppp{
+  color: white;
+padding-top: 16px;
+font-size: 15px;
+margin-left: 40px;
+line-height: 10px;
+}
+.twit{
+  background-color: #262b2e;
+}
+.twit h1{
+  text-align: center;
+  color: rgb(238, 238, 238);
+  padding-top: 80px;
+}
+.kartinki{
+margin-left: 793px;
+}
+.twit h2{
+  text-align: center;
+  color: rgb(238, 238, 238);
+}
